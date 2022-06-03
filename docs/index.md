@@ -1,6 +1,6 @@
 ## 個人資料
 
-<img src="https://i.imgur.com/epjG0mQ.jpeg" alt="大頭照">
+<img src="https://i.imgur.com/epjG0mQ.jpeg"  with="200" heigh="300" alt="大頭照">
 
 姓名: 張丘  
 生日: 90/07/16    
@@ -8,6 +8,8 @@
 
 ## 教育程度
 國防大學理工學院  資訊工程學系
->出身軍校，重視團隊合作意識。
+>出身軍校，重視團隊合作意識。  
 >養成堅毅不拔的精神，認真負責。
+
+## 
 
