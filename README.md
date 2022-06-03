@@ -1,2 +1,4 @@
 # resume
-using markdown for EZ typesetting
+using markdown for lazy typesetting
+
+https://cp018653.github.io/Resume/
