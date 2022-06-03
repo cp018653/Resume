@@ -1,6 +1,6 @@
 ## 個人資料
 
-<img src="https://i.imgur.com/epjG0mQ.jpeg"  width="341" heigh="512" alt="大頭照">
+<img src="https://i.imgur.com/epjG0mQ.jpeg"  width="170" heigh="256" alt="大頭照">
 
 姓名: 張丘  
 生日: 90/07/16    
